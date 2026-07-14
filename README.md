@@ -28,8 +28,10 @@ The next decade of computing requires deterministic boundaries between human int
 | **[@vena-core](https://github.com/vena-core)** | VENA Reference Implementation | Active |
 | **[@erpbsg](https://github.com/erpbsg)** | Business OS | Production |
 
+<!--
 ### 04. PGP / Auth
 ```text
 [Insert SSH Public Key or PGP Fingerprint here]
 ```
+-->
 *No social media. No direct messages. Institutional inquiries via dammgo networks only.*
