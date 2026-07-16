@@ -26,7 +26,6 @@ My work centers on defining and implementing strict boundaries between human int
 | Entity | Designation | Status |
 | :--- | :--- | :--- |
 | **[@dammgo-labs](https://github.com/dammgo-labs)** | Deep Tech & Applied Science | Active |
-| **[@vena-core](https://github.com/vena-core)** | AOOP Reference Implementation | Active |
 | **[@erpbsg](https://github.com/erpbsg)** | Commercial Operations | Production |
 
 <!--
