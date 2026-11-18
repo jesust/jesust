@@ -1,10 +1,9 @@
 # J. Jesus Terrazas A. (@jesust)
 
-**Software Architect | Distributed Systems**
+**Systems Architect | Distributed Systems**
 
 > [!NOTE]
-> Focused on backend infrastructure, event-driven architecture, and database optimization.
+> Focused on backend infrastructure, knowledge systems, and event-driven architectures.
 
 ### Operational Status
-- Architecting and refactoring legacy systems for performance and reliability.
-- Researching deterministic state transitions in distributed networks.
+Researching deterministic state transitions, organizational memory, and distributed coordination.
